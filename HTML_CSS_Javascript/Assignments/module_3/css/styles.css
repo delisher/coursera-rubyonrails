@@ -2,3 +2,11 @@
     box-sizing: border-box;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+.page-header {
+    margin: 60px 0 10px;
+    border-bottom: 0px;
+}
+.navbar-brand {
+	font-size: 1.75em;
+	font-weight: bold;
+}
