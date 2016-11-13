@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.page-header {
+    margin: 60px 0 10px;
+    border-bottom: 0px;
+}
+.navbar-brand {
+	font-size: 1.75em;
+	font-weight: bold;
+}
+#header-nav {
+  background-color: #f6b319;
+}
+.navbar-default .navbar-brand {
+ 	color: #337ab7;
+}
+.site-brand a {
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+body {
+	background-color: #61122f;
+	color: #fff;
+}
